@@ -1,1 +1,1 @@
-# Docker images for cx-consumertech.
+# Docker images for cx-consumertech
